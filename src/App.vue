@@ -1,10 +1,5 @@
 <template>
 <div id="app" class="mb-5">
-    <div>
-      <h3>
-        {{ expenses }}
-      </h3>
-    </div>
     <div class="container">
       <div class="jumbotron text-center">
         <h1>Расходы и доходы домашних хозяйств</h1>
